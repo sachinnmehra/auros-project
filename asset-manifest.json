@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/auros-project/static/css/main.c5bd9888.chunk.css",
+    "main.js": "/auros-project/static/js/main.95cf3b89.chunk.js",
+    "main.js.map": "/auros-project/static/js/main.95cf3b89.chunk.js.map",
+    "runtime-main.js": "/auros-project/static/js/runtime-main.b4b8917f.js",
+    "runtime-main.js.map": "/auros-project/static/js/runtime-main.b4b8917f.js.map",
+    "static/js/2.2d2c0b32.chunk.js": "/auros-project/static/js/2.2d2c0b32.chunk.js",
+    "static/js/2.2d2c0b32.chunk.js.map": "/auros-project/static/js/2.2d2c0b32.chunk.js.map",
+    "index.html": "/auros-project/index.html",
+    "service-worker.js": "/auros-project/service-worker.js",
+    "service-worker.js.map": "/auros-project/service-worker.js.map",
+    "static/css/main.c5bd9888.chunk.css.map": "/auros-project/static/css/main.c5bd9888.chunk.css.map",
+    "static/js/2.2d2c0b32.chunk.js.LICENSE.txt": "/auros-project/static/js/2.2d2c0b32.chunk.js.LICENSE.txt",
+    "static/media/crown.3a4e2b15.svg": "/auros-project/static/media/crown.3a4e2b15.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4b8917f.js",
+    "static/js/2.2d2c0b32.chunk.js",
+    "static/css/main.c5bd9888.chunk.css",
+    "static/js/main.95cf3b89.chunk.js"
+  ]
+}
